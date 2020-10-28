@@ -1,2 +1,2 @@
 # paralelaCUDA
-Paralelización mediante CUDAde un código simulador de incendios.
+Paralelización mediante CUDA de un código simulador de incendios.
